@@ -104,7 +104,3 @@ Overall: 36.7% drone, 63.3% no-drone. Splits are performed at the recording leve
 ```bash
 pytest
 ```
-
-## License
-
-[Add license here]
