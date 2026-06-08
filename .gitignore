@@ -4,6 +4,8 @@ data/
 *.mp3
 *.flac
 *.ogg
+!src/dronedetection/data/
+!src/dronedetection/data/**
 
 # Python
 __pycache__/
@@ -35,6 +37,7 @@ checkpoints/
 *.engine
 mean.npy
 std.npy
+!pretrained/*.pt
 
 # Hydra
 outputs/
