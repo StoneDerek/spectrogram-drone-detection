@@ -1,5 +1,5 @@
 # Data — never commit raw/processed audio
-data/
+src/dronedetection/data/
 *.wav
 *.mp3
 *.flac
